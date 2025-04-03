@@ -17,3 +17,18 @@ console.log(marcaCarros[0])
 console.log('tamanho: ' + estados.length)// contar a quantidades de itens dentro de uma lista
 console.log('total de letras: '+ marcaCarros[0].length) //conctenação
 console.log(`Estado: ${estados[1]}`); //interpolação
+
+let usuatio; //variável não definida
+console.log(usuatio);
+console.log(usuatio.length);
+
+
+let idade = 10;//caso o valor de idade fosse 0 daria o erro: (NAN) 
+console.log(idade + 1)
+
+let nula = null;
+console.log(nula.length);
+console.log(nula + 1);
+
+const pvsjs = "pyton é melhor que java";
+console.log(pvsjs); 
