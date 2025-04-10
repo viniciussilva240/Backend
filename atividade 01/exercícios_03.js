@@ -1,3 +1,3 @@
-let valor = 20.250000;
+let valor = 20.250;
 
 console.log('tipo:' + typeof valor);
