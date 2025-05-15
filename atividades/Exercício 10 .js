@@ -7,3 +7,4 @@ let produtoEmbalado = {
 };
 
 console.log(`O produto ${produtoEmbalado.nome}, da categoria ${produtoEmbalado.categoria}, pesando ${produtoEmbalado.peso} kg, está à venda por apenas ${produtoEmbalado.preco.toLocaleString('pt-BR',{style: 'currency', currency: 'BRL'})}.`);
+
