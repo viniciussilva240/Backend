@@ -10,12 +10,11 @@ do {
     console.log('parabéns você acertou o numero aleatorio.')
   }else if(tentativa < numeroal) {
      console.log("tente um número maior")
-    
   }else if (tentativa > numeroal) {
      console.log('tente um número menor')
   }else if (tentativa = 1023) {
     console.log(`hack ativado, o número correto é ${numeroal} `)
-  }while (tentativa !== numeroal)
+}while (tentativa !== numeroal);
 
 
 
