@@ -31,4 +31,3 @@ if (idade < 18) {
 } else {
     console.log("Maior de idade");
 }
-
